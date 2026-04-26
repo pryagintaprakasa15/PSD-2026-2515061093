@@ -74,9 +74,6 @@ class KeretaApi:
         print("None")
 
 
-# ======================
-# Program utama (menu)
-# ======================
 kereta = KeretaApi()
 
 while True:
