@@ -31,4 +31,4 @@ Kode ini berfungsi untuk membuat sebuah objek kereta api dari class KeretaApi, y
 <img width="566" height="842" alt="Screenshot 2026-04-26 172931" src="https://github.com/user-attachments/assets/84252150-3366-42af-90f6-349752f4b2f5" />
 Kode ini berfungsi sebagai menu utama program yang berjalan terus menerus untuk menerima input dari user. Program akan menampilkan pilihan menu, lalu membaca input user untuk menentukan aksi yang akan dijalankan seperti menambah gerbong, menyisipkan di posisi tertentu, menghapus gerbong, mengganti lokomotif, atau menampilkan rangkaian. Setiap pilihan akan memanggil fungsi yang sesuai pada objek kereta. Jika user memilih keluar, perulangan akan dihentikan dan program selesai.
 
-
+https://youtu.be/FaJ73NwvEa4
