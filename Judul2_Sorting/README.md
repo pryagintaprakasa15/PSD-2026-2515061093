@@ -34,3 +34,5 @@ Bagian ini dijalankan ketika user memilih opsi 3. Program akan menampilkan pesan
 
 <img width="306" height="59" alt="Screenshot 2026-05-04 100254" src="https://github.com/user-attachments/assets/ad39afbb-ddc1-4f7a-972f-59db3959a68d" />
 Bagian ini digunakan untuk memastikan bahwa fungsi main hanya dijalankan ketika file program ini dijalankan langsung, bukan saat diimpor ke file lain. Jika kondisi tersebut terpenuhi, maka program akan mulai menjalankan fungsi main sebagai titik awal eksekusi.
+
+https://youtu.be/RCZ3usnmkuA
