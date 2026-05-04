@@ -1,2 +1,4 @@
 PROGRAM MENGURUTKAN KODE BUKU DIPERPUSTAKAAN
 
+Program ini digunakan untuk mengurutkan kode buku dengan menggunakan struktur data list dan algoritma selection sort. Cara kerjanya adalah mencari data terkecil dari bagian yang belum terurut, lalu menukarnya ke posisi yang seharusnya sampai semua data tersusun rapi. Fungsi tukar dipakai untuk menukar dua data agar proses sorting lebih mudah. Di dalam main, program meminta jumlah buku lalu menerima input kode buku satu per satu dengan validasi agar tidak kosong. Setelah itu data ditampilkan sebelum dan sesudah diurutkan. Selanjutnya program masuk ke dalam perulangan menu, di mana user bisa menambah atau menghapus data. Setiap kali ada perubahan, data akan langsung diurutkan kembali agar tetap rapi. Program akan terus berjalan sampai user memilih untuk selesai.
+
