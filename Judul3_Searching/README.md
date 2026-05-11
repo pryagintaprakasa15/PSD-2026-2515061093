@@ -1,5 +1,5 @@
 PROGRAM MENCARI FILE DI FOLDER
-
+https://youtu.be/C2koXX6fJhI
 
 <img width="517" height="319" alt="Screenshot 2026-05-11 113654" src="https://github.com/user-attachments/assets/7ee74b5f-ac27-4086-a746-8ff4ae180e5e" />
 Fungsi sequential_search() digunakan untuk mencari data secara berurutan dari awal sampai akhir list. Variabel i dipakai sebagai indeks untuk mengecek setiap data, sedangkan posisi digunakan untuk menyimpan letak data yang ditemukan. Perulangan while akan memeriksa data satu per satu. Jika data sama dengan target yang dicari, maka indeks data tersebut disimpan ke dalam list posisi. Setelah semua data selesai dicek, fungsi akan mengembalikan posisi data yang ditemukan.
@@ -25,3 +25,5 @@ Jika pengguna memilih “3”, program menjalankan fungsi tambah_file() untuk me
 
 <img width="320" height="61" alt="Screenshot 2026-05-11 114917" src="https://github.com/user-attachments/assets/1dcd54cf-7adc-4c1a-83ba-2dd63d0fd472" />
 Kode if name == "main": digunakan untuk memastikan bahwa fungsi main() hanya dijalankan saat file program dijalankan secara langsung. Perintah main() digunakan untuk memulai seluruh program utama. Jika file hanya diimpor ke program lain, maka fungsi main() tidak akan otomatis dijalankan.
+
+<img width="1280" height="1270" alt="WhatsApp Image 2026-05-11 at 19 45 55" src="https://github.com/user-attachments/assets/8d77d868-1c8f-4bf1-ae20-068be41e4dc8" />
