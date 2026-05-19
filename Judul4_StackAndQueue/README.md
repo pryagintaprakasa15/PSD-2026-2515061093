@@ -35,3 +35,4 @@ Program menyediakan beberapa pilihan menu seperti menambah mobil ke parkiran, me
 <img width="307" height="54" alt="Screenshot 2026-05-19 101302" src="https://github.com/user-attachments/assets/61458c54-3e5e-4650-bb74-951518a041db" />
 
 Kode tersebut digunakan untuk menjalankan fungsi main sebagai program utama. Kondisi if **name** == "**main**" memastikan bahwa fungsi main hanya akan dijalankan ketika file program dieksekusi secara langsung, bukan saat file diimpor ke program lain.
+https://youtu.be/D1AQFjec4tk
